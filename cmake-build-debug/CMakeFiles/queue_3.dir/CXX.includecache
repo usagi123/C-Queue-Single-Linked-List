@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/imhikarucat/Desktop/CPP/queue-3/Queue.cpp
+Queue.h
+/Users/imhikarucat/Desktop/CPP/queue-3/Queue.h
+
+/Users/imhikarucat/Desktop/CPP/queue-3/Queue.h
+iostream
+-
+
+/Users/imhikarucat/Desktop/CPP/queue-3/main.cpp
+iostream
+-
+Queue.h
+/Users/imhikarucat/Desktop/CPP/queue-3/Queue.h
+
